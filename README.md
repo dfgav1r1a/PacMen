@@ -1,6 +1,6 @@
 # PacMen Factory
 
-<img src="./pacmen.png"></img>
+<img src="./pacmen.png">
 
 # MIT License
 
