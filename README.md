@@ -1,5 +1,7 @@
 # PacMen Factory
 
+<img src="./pacmen.png"></img>
+
 # MIT License
 
 Copyright (c) 2020 John Williams
