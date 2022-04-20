@@ -17,7 +17,6 @@ From the **MITxPro Full Stack Development** program I present to you the PacMen 
 5. As alternative, allow the user to manipulate the direction of the object with the mouse movement.
 6. Add a "direction" functionality where the user can decide which direction the object should go or how the object can be manipulated.
 
-
 # MIT License
 
 Copyright (c) 2020 John Williams
